@@ -119,6 +119,14 @@ class COMInitializer {
 - --
 
 
+# 🚀 Voir XML complet
+
+# 🚀 Historique d'exécution
+
+# 🚀 Désactiver temporairement
+
+# 🚀 Supprimer (après documentation)
+
 ## Compilation
 
 ### Prérequis
@@ -145,14 +153,6 @@ cl.exe /W4 /EHsc /O2 /std:c++17 /D_UNICODE /DUNICODE ^
 
 - --
 
-
-# 🚀 Voir XML complet
-
-# 🚀 Historique d'exécution
-
-# 🚀 Désactiver temporairement
-
-# 🚀 Supprimer (après documentation)
 
 ## 🚀 Utilisation
 
@@ -395,6 +395,14 @@ Pour bugs ou questions :
 
 **Note** : Outil destiné à professionnels sécurité et forensics. Usage responsable requis.
 
+
+- --
+
+<div align="center">
+
+**⭐ Si ce projet vous plaît, n'oubliez pas de lui donner une étoile ! ⭐**
+
+</div>
 
 ---
 
