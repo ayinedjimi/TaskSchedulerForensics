@@ -22,6 +22,14 @@
 - --
 
 
+# 🚀 Voir XML complet
+
+# 🚀 Historique d'exécution
+
+# 🚀 Désactiver temporairement
+
+# 🚀 Supprimer (après documentation)
+
 ## ✨ Fonctionnalités Principales
 
 ### 1. Énumération Complète et Récursive
@@ -90,14 +98,6 @@ L'outil applique des **heuristiques forensics** :
 
 - --
 
-
-# 🚀 Voir XML complet
-
-# 🚀 Historique d'exécution
-
-# 🚀 Désactiver temporairement
-
-# 🚀 Supprimer (après documentation)
 
 ## Architecture Technique
 
@@ -395,6 +395,14 @@ Pour bugs ou questions :
 
 **Note** : Outil destiné à professionnels sécurité et forensics. Usage responsable requis.
 
+
+- --
+
+<div align="center">
+
+**⭐ Si ce projet vous plaît, n'oubliez pas de lui donner une étoile ! ⭐**
+
+</div>
 
 - --
 
