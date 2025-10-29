@@ -7,6 +7,14 @@
 
 ---
 
+# 🚀 Voir XML complet
+
+# 🚀 Historique d'exécution
+
+# 🚀 Désactiver temporairement
+
+# 🚀 Supprimer (après documentation)
+
 ## 📋 Description
 
 **Task Scheduler Forensics** est un outil d'investigation spécialisé dans l'analyse des tâches planifiées Windows (Task Scheduler). Les attaquants utilisent fréquemment les tâches planifiées pour établir une **persistence** sur les systèmes compromis, souvent en configurant des tâches cachées ou avec élévation de privilèges.
@@ -21,14 +29,6 @@
 
 - --
 
-
-# 🚀 Voir XML complet
-
-# 🚀 Historique d'exécution
-
-# 🚀 Désactiver temporairement
-
-# 🚀 Supprimer (après documentation)
 
 ## ✨ Fonctionnalités Principales
 
@@ -395,6 +395,14 @@ Pour bugs ou questions :
 
 **Note** : Outil destiné à professionnels sécurité et forensics. Usage responsable requis.
 
+
+- --
+
+<div align="center">
+
+**⭐ Si ce projet vous plaît, n'oubliez pas de lui donner une étoile ! ⭐**
+
+</div>
 
 - --
 
